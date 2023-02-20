@@ -1,0 +1,30 @@
+.nt{
+  background-color: #1976d2;
+
+}
+
+.rw {
+  bottom: 150px;
+  display: flex;
+  gap: 20px;
+  bottom: 478px;
+  left: 260px;
+    position: absolute;
+}
+
+.box{
+  display: flex;
+  flex-direction: column;
+  margin-top: 0;
+  border: 2px solid black;
+  border-radius: 5px;
+  height: 180px;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+.app{
+  position: absolute;
+  left: 500px;
+}
